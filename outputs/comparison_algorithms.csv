@@ -1,0 +1,8 @@
+﻿Métrica,Apriori,FP-Growth
+Tiempo de ejecución (s),1.4,0.8
+Conjuntos frecuentes generados,236,236
+"Reglas totales (confianza ≥ 0,20)",76,76
+"Reglas alta calidad (lift ≥ 1,5)",76,76
+Confianza media filtradas,0.486,0.486
+Lift medio filtradas,10.190,10.190
+Soporte medio filtradas,0.0238,0.0238
